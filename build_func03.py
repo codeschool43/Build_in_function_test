@@ -1,4 +1,4 @@
-n = 4
-answer = pow((2+n)/3,2)
+n = 3.5
+answer = 3*pow(n+1,2)
 
 print(answer)
